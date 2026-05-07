@@ -1,11 +1,12 @@
 # 👨‍💻 GitHub Profile README
 
-````md
 <div align="center">
 
 # ⚡ Hi, I'm [YOUR NAME] ⚡
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=750&lines=Cybersecurity+Researcher;AI+Engineer;Red+%26+Blue+Team+Learner;Ethical+Hacker;Multimodal+AI+Developer;Python+%7C+Linux+%7C+Cloud+%7C+Security" alt="Typing SVG" />
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile+Views&color=00ffaa&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/YOURUSERNAME?style=for-the-badge&color=00ffaa&labelColor=0D1117" />
@@ -40,7 +41,7 @@ Currently Building:
   - Custom Multimodal AI Model (7B)
   - Coding + Cybersecurity Specialized AI
   - Autonomous Action Systems
-````
+```
 
 ---
 
@@ -51,8 +52,7 @@ Currently Building:
 | Red Team 🔴         | Blue Team 🔵     | AI Security 🧠       |
 | ------------------- | ---------------- | -------------------- |
 | Network Analysis    | Threat Detection | AI Agents            |
-| Ethical Hacking     | System Hardening | Autonomous Tools     |
-| Security Research   | Log Analysis     | Secure Automation    |
+| Ethical Hacking     | System Hardening | Secure Automation    |
 | Recon & Enumeration | Monitoring       | AI-Assisted Security |
 
 </div>
@@ -67,17 +67,18 @@ Currently Building:
 
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css,php,bash,nodejs" />
 
-## Operating Systems & Tools
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=linux,windows,kali,aws,git,github,vscode,electron" />
+## Systems & Tools
 
-## AI / Cloud / Security
+<img src="https://skillicons.dev/icons?i=linux,windows,aws,git,github,vscode,electron" />
 
-<img src="https://img.shields.io/badge/AI%20Engineering-00ffaa?style=for-the-badge&logo=openai&logoColor=black" />
-<img src="https://img.shields.io/badge/Cybersecurity-00ffaa?style=for-the-badge&logo=hackthebox&logoColor=black" />
-<img src="https://img.shields.io/badge/AWS-00ffaa?style=for-the-badge&logo=amazonaws&logoColor=black" />
-<img src="https://img.shields.io/badge/ParrotOS-00ffaa?style=for-the-badge&logo=linux&logoColor=black" />
+<br><br>
+
 <img src="https://img.shields.io/badge/Kali%20Linux-00ffaa?style=for-the-badge&logo=kalilinux&logoColor=black" />
+<img src="https://img.shields.io/badge/Parrot%20OS-00ffaa?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Cybersecurity-00ffaa?style=for-the-badge&logo=hackthebox&logoColor=black" />
+<img src="https://img.shields.io/badge/AI%20Engineering-00ffaa?style=for-the-badge&logo=openai&logoColor=black" />
 
 </div>
 
@@ -87,18 +88,28 @@ Currently Building:
 
 <div align="center">
 
-## Click the buttons below to open certifications
+## 🎓 Open Certifications
 
-<a href="LINK_TO_CERT_1" target="_blank">
-  <img src="https://img.shields.io/badge/Cisco%20Ethical%20Hacking-Open%20Certificate-00ffaa?style=for-the-badge&logo=cisco&logoColor=black" />
+<a href="LINK_TO_CERT_CRTOM" target="_blank">
+<img src="https://img.shields.io/badge/CRTOM-Certified%20Red%20Team%20Operation%20Management-00ffaa?style=for-the-badge&logo=hackthebox&logoColor=black" />
 </a>
 
-<a href="LINK_TO_CERT_2" target="_blank">
-  <img src="https://img.shields.io/badge/AWS%20ML%20Engineer-Open%20Certificate-00ffaa?style=for-the-badge&logo=amazonaws&logoColor=black" />
+<br><br>
+
+<a href="LINK_TO_CERT_CISCO" target="_blank">
+<img src="https://img.shields.io/badge/Cisco-Ethical%20Hacking%20Certificate-00ffaa?style=for-the-badge&logo=cisco&logoColor=black" />
 </a>
 
-<a href="LINK_TO_CERT_3" target="_blank">
-  <img src="https://img.shields.io/badge/Capriccio%20Sec%20University-Open%20Certificate-00ffaa?style=for-the-badge&logo=academia&logoColor=black" />
+<br><br>
+
+<a href="LINK_TO_CERT_AWS" target="_blank">
+<img src="https://img.shields.io/badge/AWS-ML%20Engineer%20Certificate-00ffaa?style=for-the-badge&logo=amazonaws&logoColor=black" />
+</a>
+
+<br><br>
+
+<a href="LINK_TO_CERT_CAPRICCIO" target="_blank">
+<img src="https://img.shields.io/badge/Capriccio%20Sec%20University-Overhaul%20Certification-00ffaa?style=for-the-badge&logo=academia&logoColor=black" />
 </a>
 
 </div>
@@ -143,8 +154,7 @@ Currently Building:
 
 # 🧠 Philosophy
 
-> "Security is not about breaking systems.
-> It's about understanding them deeply enough to protect, improve, and innovate responsibly."
+> "Security is about understanding systems deeply enough to improve and protect them responsibly."
 
 ---
 
@@ -153,15 +163,15 @@ Currently Building:
 <div align="center">
 
 <a href="https://github.com/YOURUSERNAME">
-  <img src="https://img.shields.io/badge/GitHub-00ffaa?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub-00ffaa?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
 <a href="mailto:YOURMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-00ffaa?style=for-the-badge&logo=gmail&logoColor=black" />
+<img src="https://img.shields.io/badge/Email-00ffaa?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
 <a href="https://linkedin.com/in/YOURPROFILE">
-  <img src="https://img.shields.io/badge/LinkedIn-00ffaa?style=for-the-badge&logo=linkedin&logoColor=black" />
+<img src="https://img.shields.io/badge/LinkedIn-00ffaa?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
 </div>
@@ -175,7 +185,6 @@ Currently Building:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=120&section=footer" />
 
 </div>
-```
 
 ---
 
