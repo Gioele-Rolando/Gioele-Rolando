@@ -8,9 +8,9 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile+Views&color=00ffaa&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/YOURUSERNAME?style=for-the-badge&color=00ffaa&labelColor=0D1117" />
-<img src="https://img.shields.io/github/stars/YOURUSERNAME?style=for-the-badge&color=00ffaa&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=Gioele-Rolando&label=Profile+Views&color=00ffaa&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Gioele-Rolando?style=for-the-badge&color=00ffaa&labelColor=0D1117" />
+<img src="https://img.shields.io/github/stars/Gioele-Rolando?style=for-the-badge&color=00ffaa&labelColor=0D1117" />
 
 </div>
 
