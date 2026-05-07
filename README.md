@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# ⚡ Hi, I'm [YOUR NAME] ⚡
+# ⚡ Hi, I'm Gioele ⚡
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=750&lines=Cybersecurity+Researcher;AI+Engineer;Red+%26+Blue+Team+Learner;Ethical+Hacker;Multimodal+AI+Developer;Python+%7C+Linux+%7C+Cloud+%7C+Security" alt="Typing SVG" />
 
@@ -19,7 +19,7 @@
 # 🧠 About Me
 
 ```yaml
-Name: [YOUR NAME]
+Name: Gioele Rolando
 Age: 15
 Origins: Swiss 🇨🇭 + Italian 🇮🇹
 Focus:
@@ -187,41 +187,3 @@ Currently Building:
 </div>
 
 ---
-
-# 📌 HOW TO USE
-
-1. Create a repository with the SAME name as your GitHub username.
-2. Create a file called:
-
-```txt
-README.md
-```
-
-3. Paste everything from the big markdown block above.
-4. Replace:
-
-* `YOURUSERNAME`
-* `[YOUR NAME]`
-* `YOURMAIL@example.com`
-* `LINK_TO_CERT_1`
-* `LINK_TO_CERT_2`
-* `LINK_TO_CERT_3`
-
-5. Upload your certification images to GitHub or Imgur and paste the links.
-
----
-
-# 💡 EXTRA IDEAS
-
-You can also add:
-
-* Animated terminal GIFs
-* Cyberpunk banners
-* Live Discord status
-* Spotify integration
-* Hack The Box stats
-* TryHackMe badges
-* AI project demos
-* Portfolio website
-* Matrix rain SVG animation
-* Custom dark theme SVG
