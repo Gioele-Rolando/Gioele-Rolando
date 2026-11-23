@@ -1,130 +1,81 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Gioele%20Rolando&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Student%20at%20Applied%20Science&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+# Gioele Rolando
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Gioele-Rolando">
-    <img src="https://komarev.com/ghpvc/?username=Gioele-Rolando&label=Profile%20views&color=00FFFF&style=flat-square" alt="Gioele-Rolando's profile views" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>🛡️ Ethical Hacking &amp; Offensive Security &nbsp;|&nbsp; 🔒 Cybersecurity Architecture &nbsp;|&nbsp; 🤖 AI &amp; Local Inference</strong>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="20" height="20" /> **Hi there, I'm Gioele!**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" height="20" /> Applied Science High School student based in Italy, deeply focused on offensive security, low-level architecture, and AI research.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /> Designing isolated multi-tier networks, hardware defense gateways, and optimizing local model inference.
+**Applied Sciences High School Student · Cybersecurity, Linux Infrastructure & Applied AI**  
+📍 Italy &nbsp;|&nbsp; 🇮🇹 Italian (Native) · 🇬🇧 English (IELTS B2 / Technical C1)  
+<!-- Aggiungi qui i tuoi link reali o rimuovi questa riga -->
+[Email](mailto:tuaemail@esempio.com) · [LinkedIn](https://linkedin.com/in/tuoprofilo) · [GitHub](https://github.com/Gioele-Rolando)
 
 ---
 
-### 🛡️ What I'm Focused On
-- 🔴 **Offensive Security:** Red teaming, penetration testing, CTF competitions, and binary exploit analysis.
-- ⚙️ **Hardware & Low-Level:** Microcontrollers, firmware extraction, protocol reversing, and electronics tinkery.
-- 🖥️ **Homelab & Architecture:** Multi-tier network isolation, bastion host gateways, and self-hosted cloud infrastructure.
-- 🤖 **AI / ML & Optimization:** Neural network training, model quantization, and local hardware inference tuning.
+## Overview
+
+High school student (Liceo Scientifico — *Scienze Applicate*) focused on hands-on systems engineering, offensive and defensive security, local AI workloads, and embedded hardware. I prefer building, breaking, and hardening real infrastructure from first principles—extracting maximum performance and security out of constrained hardware.
 
 ---
 
-### 📜 Certifications & Verified Badges
+## Core Areas of Focus
+
+* **Cybersecurity & Network Hardening:** Isolated red-team lab testing, reverse-proxy security, intrusion prevention (CrowdSec), DNS-level filtering, and multi-tier network segmentation.
+* **Linux Systems & Self-Hosted Infrastructure:** Bare-metal Ubuntu Server administration, Docker orchestration, mesh VPNs, and automated game/media/cloud service deployment.
+* **Applied AI & Local Inference:** Quantized LLM, VLM, and TTS pipelines on consumer hardware, Python audio DSP tooling, and experimental neural architectures in PyTorch.
+* **Embedded Systems & Parametric CAD:** Microcontroller prototyping (ESP32, ESP8266, Arduino), sensor interfacing, and functional mechanical design in OpenSCAD.
+
+---
+
+## Selected Projects & Infrastructure
+
+### 1. Multi-Tier Homelab & Self-Hosted Stack
+Custom 12U 10-inch 3D-printed server rack running a segmented home infrastructure behind a dual-router DMZ topology.
+* **Compute & Edge:** HP ProDesk 400 G6 SFF (Ubuntu Server LTS, NVMe + multi-drive array) paired with a Raspberry Pi 3 Model B+ edge gateway.
+* **Networking & Security:** Tailscale mesh VPN, Caddy reverse proxy, CrowdSec bouncer, Pi-hole, and `dnscrypt-proxy`.
+* **Services:** Dockerized workloads including Pelican Panel & Wings, Jellyfin (Intel QuickSync hardware transcoding), Nextcloud, Navidrome, Open WebUI, and SearXNG.
+
+### 2. Embedded Hardware, Biometrics & Automation
+* **Modular EEG & Biometric Prototyping:** Building a 3D-printed OpenBCI Ultracortex Mark IV frame integrated with Arduino Uno R3, GY-521 IMU, skin-temperature/sweat sensors, and custom quick-release wiring harnesses.
+* **Smart Workbench Automation:** ESP32-based controller managing zoned LED lighting, magnetic door switches, solenoid locks, environmental telemetry, and a safety-interlocked UV-C drawer.
+* **Parametric Hardware Design:** Designing custom modular rack mounts, keystone adapters, and utility fixtures in OpenSCAD.
+
+### 3. Local AI & Experimental ML
+* Deploying and benchmarking open-weight LLMs and TTS engines locally within strict 4 GB VRAM constraints.
+* Prototyping custom experimental neural network architectures in Python/PyTorch and custom audio DSP/codec pipelines.
+
+### 4. Real-World Deployments
+* **Municipal Digital Signage Kiosk:** Configured and deployed a self-booting Raspberry Pi 3B+ signage system for a local municipality.
+* **Web & DNS Infrastructure:** Built and deployed a modern web presence and Cloudflare DNS setup for a local hospitality business.
+
+---
+
+## Certifications & Credentials
+
+| Credential | Issuer | Status / Verification |
+| :--- | :--- | :--- |
+| **CRTOM** (Certified Red Team Operations Management) | Red Team Leaders | [Verified](https://courses.redteamleaders.com/exam-completion/cbce92dc71854100) |
+| **Ethical Hacker** | Cisco Networking Academy | [Credly Badge](https://www.credly.com/badges/6b584c39-a82e-477a-8cde-4635366acfb9/public_url) |
+| **White Hat Hacking Overhaul** | Capricciosec University | Completed |
+| **AWS ML Engineer Associate** *(Course)* | AWS Training | Completed |
+| **ISC2 Candidate** | ISC2 | [Credly Badge](https://www.credly.com/badges/a0acb42e-2637-4229-87ec-40d2a10a459d/public_url) |
+| **Certified in Cybersecurity (CC)** | ISC2 | In Progress *(Target: Dec 2026)* |
+| **EASA A1/A3 Remote Pilot Certificate** | DAC Luxembourg | Active |
+
+---
+
+## Technical Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C, C++, Bash, JavaScript, HTML/CSS, OpenSCAD |
+| **OS & Infrastructure** | Ubuntu Server, Pop!_OS, Kali Linux, Docker, Caddy, Tailscale, Cloudflare DNS |
+| **Security & Networking** | CrowdSec, Pi-hole, dnscrypt-proxy, DMZ routing, isolated lab pentesting |
+| **AI / ML** | PyTorch, Open WebUI, SearXNG, local LLM/TTS inference & quantization |
+| **Hardware & Embedded** | Raspberry Pi, ESP32 / ESP8266, Arduino Uno, I2C/IMU sensors, 3D Printing (CAD) |
+| **Tools** | Git, Linux CLI, VS Code, Pelican Panel |
+
+---
+
+## GitHub Activity
+
 <p align="left">
-  <a href="https://courses.redteamleaders.com/exam-completion/cbce92dc71854100" target="_blank">
-    <img src="https://img.shields.io/badge/CRTOM-Certified_Red_Team_Operations_Management-DC2626?style=for-the-badge&logo=target&logoColor=white" alt="CRTOM" />
-  </a>
-  <a href="https://www.credly.com/badges/a0acb42e-2637-4229-87ec-40d2a10a459d/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/ISC2-Candidate-006699?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="ISC2 Candidate" />
-  </a>
-  <a href="https://www.credly.com/badges/6b584c39-a82e-477a-8cde-4635366acfb9/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Ethical Hacker" />
-  </a>
-</p>
-
-#### ⏳ Currently Preparing For
-<p align="left">
-  <img src="https://img.shields.io/badge/Target-CEH_(Certified_Ethical_Hacker)-333333?style=for-the-badge&logo=hack-the-box&logoColor=red" alt="CEH" />
-  <img src="https://img.shields.io/badge/Target-ISC2_Ethical_Hacker_%2F_CC-006699?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="ISC2 Target" />
-</p>
-
----
-
-### 🏗️ Homelab & Security Stack
-<pre>
-Core Compute   : HP ProDesk 400 G6 SFF (Ubuntu Server LTS, NVMe + HDD)
-Network Edge   : Raspberry Pi 3 B+ (Tailscale mesh node, RAD gateway, firewall inspection)
-Workloads      : Local AI / Model inference, private media vault (Jellyfin), secure routing
-Languages      : C/C++, Python, Bash, Rust, JavaScript
-</pre>
-
----
-
-## 📊 GitHub Stats & Streak
-
-<p align="center">
   <a href="https://github.com/Gioele-Rolando">
-    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gioele-Rolando&cache_seconds=7200&show_icons=true&theme=tokyonight&border_radius=10" alt="Gioele-Rolando's GitHub Stats" />
-    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gioele-Rolando&theme=tokyonight&border_radius=10" alt="Gioele-Rolando's GitHub Streak" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gioele-Rolando&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   </a>
 </p>
-
----
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
-</p>
-
-<h3 align="center">Frontend & Frameworks</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-</p>
-
-<h3 align="center">Backend & Systems</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-</p>
-
-<h3 align="center">Databases & Infrastructure</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" />
-</p>
-
-<h3 align="center">Tools & Workflow</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-</p>
-
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
-</div>
